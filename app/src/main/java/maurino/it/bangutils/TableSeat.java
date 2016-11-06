@@ -13,7 +13,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+// Commento per prova git
 public class TableSeat extends Activity {
 
     private View view;
