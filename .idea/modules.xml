@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BangUtils.iml" filepath="$PROJECT_DIR$/BangUtils.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BangUtils.iml" filepath="$PROJECT_DIR$/BangUtils.iml" group="BangUtils" />
+      <module fileurl="file://$PROJECT_DIR$/app/BangUtils-app.iml" filepath="$PROJECT_DIR$/app/BangUtils-app.iml" group="BangUtils/app" />
     </modules>
   </component>
 </project>

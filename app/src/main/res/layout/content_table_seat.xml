@@ -45,15 +45,16 @@
         android:orientation="vertical">
 
     </LinearLayout>
+
     <TextView
         android:id="@+id/players"
-        android:text="Posizione al tavolo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
         android:gravity="center"
-        android:textStyle="bold"
+        android:text="Posizione al tavolo"
         android:textSize="25dp"
-        android:layout_marginTop="30dp" />
+        android:textStyle="bold" />
 
 </LinearLayout>
 </ScrollView>
